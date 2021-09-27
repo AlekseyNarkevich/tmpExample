@@ -2,8 +2,8 @@ FirstFile
 line1 update from git_1
 line2 update from git_1
 line3
-line4
-line5
+line4 update from dir2 git_1
+line5 update from dir2 git_1
 line6
 line7
 line8 update from git_1
